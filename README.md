@@ -14,10 +14,6 @@ LAB 1: I AM RICH
 -	After setting up the configuration, all that is left to do is run the package.
 o	flutter pub get
 o	flutter pub run flutter_launcher_icons
- 
-
-
- 
 -	Run app: 
 
  
